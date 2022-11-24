@@ -1,3 +1,2 @@
 Hello
-2nd new lineo
-
+Remove merge conflict
